@@ -4448,11 +4448,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Monster\\Desktop\\Github\\C# .Net ile Yapay Zeka Entegrasyonları\\NetCoreAI\\NetCoreAI.Project01_ApiDemo\\NetCoreAI.Project01_ApiDemo.csproj",
+      "projectUniqueName": "C:\\Users\\Monster\\Desktop\\Github\\C# .Net ile Yapay Zeka Entegrasyonları\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project01_ApiDemo\\NetCoreAI.Project01_ApiDemo.csproj",
       "projectName": "NetCoreAI.Project01_ApiDemo",
-      "projectPath": "C:\\Users\\Monster\\Desktop\\Github\\C# .Net ile Yapay Zeka Entegrasyonları\\NetCoreAI\\NetCoreAI.Project01_ApiDemo\\NetCoreAI.Project01_ApiDemo.csproj",
+      "projectPath": "C:\\Users\\Monster\\Desktop\\Github\\C# .Net ile Yapay Zeka Entegrasyonları\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project01_ApiDemo\\NetCoreAI.Project01_ApiDemo.csproj",
       "packagesPath": "C:\\Users\\Monster\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Monster\\Desktop\\Github\\C# .Net ile Yapay Zeka Entegrasyonları\\NetCoreAI\\NetCoreAI.Project01_ApiDemo\\obj\\",
+      "outputPath": "C:\\Users\\Monster\\Desktop\\Github\\C# .Net ile Yapay Zeka Entegrasyonları\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project01_ApiDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Monster\\AppData\\Roaming\\NuGet\\NuGet.Config",

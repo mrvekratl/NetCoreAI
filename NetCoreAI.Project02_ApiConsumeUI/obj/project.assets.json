@@ -5572,11 +5572,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Monster\\Desktop\\Github\\C# .Net ile Yapay Zeka Entegrasyonları\\NetCoreAI\\NetCoreAI.Project02_ApiConsumeUI\\NetCoreAI.Project02_ApiConsumeUI.csproj",
+      "projectUniqueName": "C:\\Users\\Monster\\Desktop\\Github\\C# .Net ile Yapay Zeka Entegrasyonları\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project02_ApiConsumeUI\\NetCoreAI.Project02_ApiConsumeUI.csproj",
       "projectName": "NetCoreAI.Project02_ApiConsumeUI",
-      "projectPath": "C:\\Users\\Monster\\Desktop\\Github\\C# .Net ile Yapay Zeka Entegrasyonları\\NetCoreAI\\NetCoreAI.Project02_ApiConsumeUI\\NetCoreAI.Project02_ApiConsumeUI.csproj",
+      "projectPath": "C:\\Users\\Monster\\Desktop\\Github\\C# .Net ile Yapay Zeka Entegrasyonları\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project02_ApiConsumeUI\\NetCoreAI.Project02_ApiConsumeUI.csproj",
       "packagesPath": "C:\\Users\\Monster\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Monster\\Desktop\\Github\\C# .Net ile Yapay Zeka Entegrasyonları\\NetCoreAI\\NetCoreAI.Project02_ApiConsumeUI\\obj\\",
+      "outputPath": "C:\\Users\\Monster\\Desktop\\Github\\C# .Net ile Yapay Zeka Entegrasyonları\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project02_ApiConsumeUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Monster\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i9i4z1zIw0A=",
+  "dgSpecHash": "c0cNDpT2/t4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Monster\\Desktop\\Github\\C# .Net ile Yapay Zeka Entegrasyonları\\NetCoreAI\\NetCoreAI.Project02_ApiConsumeUI\\NetCoreAI.Project02_ApiConsumeUI.csproj",
+  "projectFilePath": "C:\\Users\\Monster\\Desktop\\Github\\C# .Net ile Yapay Zeka Entegrasyonları\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project02_ApiConsumeUI\\NetCoreAI.Project02_ApiConsumeUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Monster\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Monster\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

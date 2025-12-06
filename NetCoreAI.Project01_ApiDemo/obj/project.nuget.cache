@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ndgK4pNvGPc=",
+  "dgSpecHash": "KfiX6CAPZz8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Monster\\Desktop\\Github\\C# .Net ile Yapay Zeka Entegrasyonları\\NetCoreAI\\NetCoreAI.Project01_ApiDemo\\NetCoreAI.Project01_ApiDemo.csproj",
+  "projectFilePath": "C:\\Users\\Monster\\Desktop\\Github\\C# .Net ile Yapay Zeka Entegrasyonları\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project01_ApiDemo\\NetCoreAI.Project01_ApiDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Monster\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Monster\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Monster\\Desktop\\Github\\C# .Net ile Yapay Zeka Entegrasyonlar\u0131\\NetCoreAI\\NetCoreAI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ED23CF-B9DA-4C9E-BAA0-B356B920CCBF}|NetCoreAI.Project04_OpenAIChat\\NetCoreAI.Project04_OpenAIChat.csproj|c:\\users\\monster\\desktop\\github\\c# .net ile yapay zeka entegrasyonlar\u0131\\netcoreai\\netcoreai\\netcoreai.project04_openaichat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4ED23CF-B9DA-4C9E-BAA0-B356B920CCBF}|NetCoreAI.Project04_OpenAIChat\\NetCoreAI.Project04_OpenAIChat.csproj|solutionrelative:netcoreai.project04_openaichat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\Github\\C# .Net ile Yapay Zeka Entegrasyonlar\u0131\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project04_OpenAIChat\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreAI.Project04_OpenAIChat\\Program.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\Github\\C# .Net ile Yapay Zeka Entegrasyonlar\u0131\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project04_OpenAIChat\\Program.cs",
+              "RelativeToolTip": "NetCoreAI.Project04_OpenAIChat\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T10:50:06.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

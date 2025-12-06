@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project01_ApiDemo", "NetCoreAI.Project01_ApiDemo\NetCoreAI.Project01_ApiDemo.csproj", "{2F5FEEE6-CC6B-441A-85FA-2765B3A8B1FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreAI.Project01_ApiDemo", "NetCoreAI.Project01_ApiDemo\NetCoreAI.Project01_ApiDemo.csproj", "{2F5FEEE6-CC6B-441A-85FA-2765B3A8B1FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project02_ApiConsumeUI", "NetCoreAI.Project02_ApiConsumeUI\NetCoreAI.Project02_ApiConsumeUI.csproj", "{96A66717-9318-40E0-BA3E-8A645C6EED20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreAI.Project02_ApiConsumeUI", "NetCoreAI.Project02_ApiConsumeUI\NetCoreAI.Project02_ApiConsumeUI.csproj", "{96A66717-9318-40E0-BA3E-8A645C6EED20}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreAI.Project03_RapidApi", "NetCoreAI.Project03_RapidApi\NetCoreAI.Project03_RapidApi.csproj", "{16F11307-EF84-4777-AD15-83601B2FBAC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project04_OpenAIChat", "NetCoreAI.Project04_OpenAIChat\NetCoreAI.Project04_OpenAIChat.csproj", "{E4ED23CF-B9DA-4C9E-BAA0-B356B920CCBF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{96A66717-9318-40E0-BA3E-8A645C6EED20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96A66717-9318-40E0-BA3E-8A645C6EED20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96A66717-9318-40E0-BA3E-8A645C6EED20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16F11307-EF84-4777-AD15-83601B2FBAC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16F11307-EF84-4777-AD15-83601B2FBAC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16F11307-EF84-4777-AD15-83601B2FBAC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16F11307-EF84-4777-AD15-83601B2FBAC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4ED23CF-B9DA-4C9E-BAA0-B356B920CCBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4ED23CF-B9DA-4C9E-BAA0-B356B920CCBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4ED23CF-B9DA-4C9E-BAA0-B356B920CCBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4ED23CF-B9DA-4C9E-BAA0-B356B920CCBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

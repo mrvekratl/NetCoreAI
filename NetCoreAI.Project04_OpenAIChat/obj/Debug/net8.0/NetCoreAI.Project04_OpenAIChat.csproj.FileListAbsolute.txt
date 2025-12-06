@@ -1,0 +1,15 @@
+C:\Users\Monster\Desktop\Github\C# .Net ile Yapay Zeka Entegrasyonları\NetCoreAI\NetCoreAI\NetCoreAI.Project04_OpenAIChat\bin\Debug\net8.0\NetCoreAI.Project04_OpenAIChat.exe
+C:\Users\Monster\Desktop\Github\C# .Net ile Yapay Zeka Entegrasyonları\NetCoreAI\NetCoreAI\NetCoreAI.Project04_OpenAIChat\bin\Debug\net8.0\NetCoreAI.Project04_OpenAIChat.deps.json
+C:\Users\Monster\Desktop\Github\C# .Net ile Yapay Zeka Entegrasyonları\NetCoreAI\NetCoreAI\NetCoreAI.Project04_OpenAIChat\bin\Debug\net8.0\NetCoreAI.Project04_OpenAIChat.runtimeconfig.json
+C:\Users\Monster\Desktop\Github\C# .Net ile Yapay Zeka Entegrasyonları\NetCoreAI\NetCoreAI\NetCoreAI.Project04_OpenAIChat\bin\Debug\net8.0\NetCoreAI.Project04_OpenAIChat.dll
+C:\Users\Monster\Desktop\Github\C# .Net ile Yapay Zeka Entegrasyonları\NetCoreAI\NetCoreAI\NetCoreAI.Project04_OpenAIChat\bin\Debug\net8.0\NetCoreAI.Project04_OpenAIChat.pdb
+C:\Users\Monster\Desktop\Github\C# .Net ile Yapay Zeka Entegrasyonları\NetCoreAI\NetCoreAI\NetCoreAI.Project04_OpenAIChat\obj\Debug\net8.0\NetCoreAI.Project04_OpenAIChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\Github\C# .Net ile Yapay Zeka Entegrasyonları\NetCoreAI\NetCoreAI\NetCoreAI.Project04_OpenAIChat\obj\Debug\net8.0\NetCoreAI.Project04_OpenAIChat.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\Github\C# .Net ile Yapay Zeka Entegrasyonları\NetCoreAI\NetCoreAI\NetCoreAI.Project04_OpenAIChat\obj\Debug\net8.0\NetCoreAI.Project04_OpenAIChat.AssemblyInfo.cs
+C:\Users\Monster\Desktop\Github\C# .Net ile Yapay Zeka Entegrasyonları\NetCoreAI\NetCoreAI\NetCoreAI.Project04_OpenAIChat\obj\Debug\net8.0\NetCoreAI.Project04_OpenAIChat.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\Github\C# .Net ile Yapay Zeka Entegrasyonları\NetCoreAI\NetCoreAI\NetCoreAI.Project04_OpenAIChat\obj\Debug\net8.0\NetCoreAI.Project04_OpenAIChat.sourcelink.json
+C:\Users\Monster\Desktop\Github\C# .Net ile Yapay Zeka Entegrasyonları\NetCoreAI\NetCoreAI\NetCoreAI.Project04_OpenAIChat\obj\Debug\net8.0\NetCoreAI.Project04_OpenAIChat.dll
+C:\Users\Monster\Desktop\Github\C# .Net ile Yapay Zeka Entegrasyonları\NetCoreAI\NetCoreAI\NetCoreAI.Project04_OpenAIChat\obj\Debug\net8.0\refint\NetCoreAI.Project04_OpenAIChat.dll
+C:\Users\Monster\Desktop\Github\C# .Net ile Yapay Zeka Entegrasyonları\NetCoreAI\NetCoreAI\NetCoreAI.Project04_OpenAIChat\obj\Debug\net8.0\NetCoreAI.Project04_OpenAIChat.pdb
+C:\Users\Monster\Desktop\Github\C# .Net ile Yapay Zeka Entegrasyonları\NetCoreAI\NetCoreAI\NetCoreAI.Project04_OpenAIChat\obj\Debug\net8.0\NetCoreAI.Project04_OpenAIChat.genruntimeconfig.cache
+C:\Users\Monster\Desktop\Github\C# .Net ile Yapay Zeka Entegrasyonları\NetCoreAI\NetCoreAI\NetCoreAI.Project04_OpenAIChat\obj\Debug\net8.0\ref\NetCoreAI.Project04_OpenAIChat.dll
